@@ -1,7 +1,17 @@
-output_dir: "."
+name: "our-website"
 navbar:
+  title: "Our Collaborative Website"
   left:
     - text: "Home"
       href: index.html
     - text: "Thomas"
       href: thomas.html
+output_dir: "."
+output:
+  html_document:
+    theme: darkly
+    highlight: textmate
+    toc: true 
+    toc_float: true
+      
+      
