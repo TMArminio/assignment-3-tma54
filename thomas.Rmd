@@ -8,5 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 * I love agriculture, data, and art
-* I am in the MPS Global Development program
-* I am having a great time learning GitHub and R
+* I am in the MPS Global Development program in CALS
+* I am having a great time learning GitHub and R; it's a real blast
+
+![](https://media-exp1.licdn.com/dms/image/C4D03AQG1y741oSPNsw/profile-displayphoto-shrink_800_800/0/1604661973655?e=1650499200&v=beta&t=ZQhJev3PZPlgRuaWi8zBKklNal1rt7eW959j6glKqZY)
