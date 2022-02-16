@@ -1,0 +1,12 @@
+---
+title: "THOMAS"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I love agriculture, data, and art
+* I am in the MPS Global Development program
+* I am having a great time learning GitHub and R
